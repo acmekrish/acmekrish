@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋, I'm Israel Idowu</h1>
-<h3 align="center">Hi! I'm Israel Idowu, I'm 22 years old and I'm a Software Developer and Project Manager who aspires to lead a team and help develop a world changing software product..</h3>
+<h3 align="center">Hi! I'm Israel Idowu,  I'm a Software Developer and Project Manager who aspires to lead a team and help develop a world changing software product..</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 <p align="left"> <a href="https://twitter.com/krishacme" target="blank"><img src="https://img.shields.io/twitter/follow/krishacme?logo=twitter&style=for-the-badge" alt="krishacme" /></a> </p>
 
-- 🔭 I’m currently working on [Foosion](https://www.foosion.ng/)
+- 🔭 I’m currently working on [CribInn](https://www.cribinn.com/)
 
-- 🌱 I’m currently learning **Project management and Redux**
 
-- 👨‍💻 All of my projects are available at [https://krishacme.vercel.app/](https://krishacme.vercel.app/)
+- 👨‍💻 My Portfolio at [https://israel.pro/](https://israel.pro/)
 
 - 📝 I regularly write articles on [https://twitter.com/krishacme](https://twitter.com/krishacme)
 
 - 💬 Ask me about **NextJS, Typescript and Project Management**
 
 - 📫 How to reach me **acmekrish@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DeK3olcYIl7Ljici-I6OKawP9ySc_xvS?usp=share_link](https://drive.google.com/drive/folders/1DeK3olcYIl7Ljici-I6OKawP9ySc_xvS?usp=share_link)
 
 - ⚡ Fun fact **I am ambidextrous**
 
