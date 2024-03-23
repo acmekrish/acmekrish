@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [CribInn](https://www.cribinn.com/)
 
 
-- 👨‍💻 My Portfolio at [https://israel.pro/](https://israel.pro/)
+- 👨‍💻 My Portfolio at [https://iisrael.pro/](https://iisrael.pro/)
 
 - 📝 I regularly write articles on [https://twitter.com/krishacme](https://twitter.com/krishacme)
 
