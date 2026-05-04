@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/krishacme" target="blank"><img src="https://img.shields.io/twitter/follow/krishacme?logo=twitter&style=for-the-badge" alt="krishacme" /></a> </p>
 
-- 🔭 I’m currently working on [CribInn](https://www.cribinn.com/)
+- 🔭 I’m currently working on [CribInn](https://www.giglyn.com/)
 
 
-- 👨‍💻 My Portfolio at [https://iisrael.pro/](https://iisrael.pro/)
+- 👨‍💻 My Portfolio at [https://iisrael.pro/](https://www.krishacme.com/)
 
 - 📝 I regularly write articles on [https://twitter.com/krishacme](https://twitter.com/krishacme)
 
